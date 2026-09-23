@@ -1,0 +1,24 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Local environments and editor settings
+.venv/
+venv/
+.vscode/
+.idea/
+
+# Datasets, experiment outputs, and model checkpoints
+data/
+datasets/
+checkpoints/
+logs/
+runs/
+*.pth
+*.pt
+*.pth.tar
+*.ckpt
+
+# Operating-system files
+.DS_Store
+Thumbs.db
